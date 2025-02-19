@@ -6,7 +6,7 @@ const Navbar = () => {
 
   return (
     <div className="navbar">
-      <p>Home 1</p>
+      <h1 className="text-3xl text-red-700">Home 1</h1>
       <p>Home 1</p>
       <p>Home 1</p>
       <p>count: {count}</p>
